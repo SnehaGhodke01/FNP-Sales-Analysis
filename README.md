@@ -1,7 +1,3 @@
-# FNP-Sales-Analysis
-An interactive sales analysis dashboard for Ferns N Petals (FNP) built to track revenue, orders, and customer trends using dynamic visualizations. Helps identify top products, seasonal patterns, and business insights to support data-driven decision-making.
-
-
 Ferns N Petals (FNP) Sales Analysis Dashboard
 This repository contains a comprehensive data analysis project focused on the sales performance of Ferns N Petals (FNP). The project utilizes a dynamic dashboard to visualize key business metrics, seasonal trends, and product performance.
 
